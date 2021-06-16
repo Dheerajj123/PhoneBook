@@ -1,1 +1,1 @@
-# PhoneBook
+# PhoneBook is a java application in  which all validations are done by basic oops concept of JAVA. We can store contact names, numbers, gender etc. Also we can fetch contact details by searching their name or number.
